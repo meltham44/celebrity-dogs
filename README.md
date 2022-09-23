@@ -1,7 +1,7 @@
 # celebrity-dogs
-> A Top Trumps style game involving dogs. Written in Python
+> Programming project completed for AQA GCSE Computer Science 2019
 
-Programming project completed for AQA GCSE Computer Science 2019
+A Top Trumps style game involving dogs. Written in Python
 ## Requirements
 Python 3.x
 ## Getting Started
